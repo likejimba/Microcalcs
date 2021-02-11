@@ -1,7 +1,9 @@
 # Microcalcs
 
 ## Introduction
-Microcalcifications (MCs) are used in the parchment phantom project for detection and classification studies. MCs are inserted via templates created from  parchment paper (previously) or large adhesive sheets (currently). More details about their fabriction can be found in the Medical Physics 2019 paper [1]. [help]  
+Microcalcifications (MCs) are used in the parchment phantom project for detection and classification studies. MCs are inserted via templates created from  parchment paper (previously) or large adhesive sheets (currently). More details about their fabriction can be found in the Medical Physics 2019 paper [1]. Templates have undergone several iterations, and their versions will be catalogued below.
+
+## Versions
 
 
 ## References
